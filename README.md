@@ -1,2 +1,2 @@
 ## ✨ Features
-- Website redirects to a you look so sexy
+- Website redirects to you look so sexy
