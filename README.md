@@ -1,2 +1,2 @@
 ## ✨ Features
-- Website redirects to a rick roll
+- Website redirects to a you look so sexy
